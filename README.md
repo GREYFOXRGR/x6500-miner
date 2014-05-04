@@ -1,3 +1,5 @@
+**WARNING: This project is old and out of date.**
+
 # README
 x6500-miner is a set of code designed for working with the X6500 FPGA Miner boards, which are used for bitcoin mining. Portions of the code are borrowed or inspired by poclbm and phoenix-miner, and some direct contribution has been made by m0mchil.
 
